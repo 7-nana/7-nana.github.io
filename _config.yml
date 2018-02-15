@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr: 7_nana
-  github: barryclark/jekyll-now
+  github: 7-nana
   instagram: 7_nana
   linkedin:
   pinterest: 7_nana
@@ -76,6 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag # ogp
 
 # Exclude these files from your production _site
 exclude:
