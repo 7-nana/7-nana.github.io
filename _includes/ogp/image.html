@@ -1,0 +1,2 @@
+{% if page.image %}{% capture page_image %}{{ page.image }}{% endcapture %}{% else %}{% capture page_image %}{{ site.url }}/assets/logo.png"{% endcapture %}
+{% endif %}{{ page_image }}
