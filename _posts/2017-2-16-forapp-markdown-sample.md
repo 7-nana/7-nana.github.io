@@ -141,8 +141,6 @@ body { display: none; } /* バッククォート囲みcss */
 
 markdownでテキストリンク [WIRED.jp](http://wired.jp/ "WIRED.jp")
 
-<カッコ>でくくってリンク <http://wired.jp/>
-
 定義参照リンクです。SNSには [Twitter] [1] や [Facebook] [2] や [Google+] [3]  などがあります。
 
   [1]: https://twitter.com/        "Twitter"
