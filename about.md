@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+フリーランスのWeb屋＆グラフィックデザイナー。
 
-### More Information
+## 謝辞
 
-A place to include any other types of information that you'd like to include about yourself.
+このブログは[Jekyll Now](http://www.jekyllnow.com/ "Jekyll Now – Create a Jekyll Blog in minutes") on GitHub Pagesでできています。
 
-### Contact me
+下記の記事を参考にしてカスタマイズしています。
 
-[email@domain.com](mailto:email@domain.com)
+- [GitHub PagesのJekyllでogpタグを出力する - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2016/07/03/104536 "GitHub PagesのJekyllでogpタグを出力する - たけぞう瀕死ブログ")
+- [JekyllでTwitterカード用のタグを出力する - たけぞう瀕死ブログ](http://takezoe.hatenablog.com/entry/2016/07/03/175911 "JekyllでTwitterカード用のタグを出力する - たけぞう瀕死ブログ")
+- [How to add Disqus to your blog · barryclark/jekyll-now Wiki](https://github.com/barryclark/jekyll-now/wiki/How-to-add-Disqus-to-your-blog "How to add Disqus to your blog · barryclark/jekyll-now Wiki")
