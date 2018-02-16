@@ -8,7 +8,7 @@ permalink: /about/
 
 ## 謝辞
 
-このブログは[Jekyll Now](http://www.jekyllnow.com/ "Jekyll Now – Create a Jekyll Blog in minutes") on [GitHub Pages](https://pages.github.com/ "GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.")でできています。
+このブログは[Jekyll Now](http://www.jekyllnow.com/ "Jekyll Now – Create a Jekyll Blog in minutes") on [GitHub Pages](https://pages.github.com/ "GitHub Pages")でできています。
 
 下記の記事を参考にしてカスタマイズしています。
 
