@@ -20,7 +20,7 @@ footer-links:
   dribbble:
   email:
   facebook:
-  flickr: 7_nana
+  flickr:
   github: 7-nana
   instagram: 7_nana
   linkedin:
@@ -28,8 +28,8 @@ footer-links:
   rss: rss # just type anything here for a working RSS icon
   twitter: 7_nana
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: 7isNana # channel/<your_long_string> or user/<user-name>
-  googleplus: +NanaH7 # anything in your profile username that comes after plus.google.com/
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
