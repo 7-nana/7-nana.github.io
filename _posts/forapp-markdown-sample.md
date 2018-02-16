@@ -1,3 +1,8 @@
+---
+layout: post
+title: Markdown記法 表示確認用サンプル
+---
+
 Markdown記法サンプル
 
 # 見出し1（h1）
