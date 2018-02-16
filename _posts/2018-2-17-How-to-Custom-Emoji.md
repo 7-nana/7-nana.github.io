@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Mastodon用にオリジナルのカスタム絵文字を作る
+title: 写真やイラストを元にMastodon用のカスタム絵文字を作る方法
 date: 2018-02-17 00:00:00
 image: https://7-nana.github.io/images/img_howtocustomemoji_00009.png
 categories: Mastodon
@@ -14,9 +14,11 @@ tags:
 
 <iframe src="https://mastodos.com/@7_nana/99535641093246226/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mastodos.com/embed.js" async="async"></script>
 
-先日、久しぶりに私のMastodonインスタンス「[マストどす](https://mastodos.com/about "mastodos.com - マストどす")」にカスタム絵文字を追加していて、なんとなーく作業フローが固まってきたので、書いておこうと思います。
+先日、久しぶりに私のMastodonインスタンス「[マストどす](https://mastodos.com/about "mastodos.com - マストどす")」にカスタム絵文字を追加していて、失敗の少ない作業フローが固まってきたので、ここに書いておこうと思います。
 
-この作業には、PhotoshopとIllustratorを使用します。私の環境はいずれもCCです。
+この作業にはPhotoshopとIllustratorを使用します。私の環境はいずれもCCです。
+
+既にWeb用アイコンを作ることができる方にはあまり必要のない記事です。絵を描くことが苦手な方、またはパソコンを使って絵を描くことが苦手な方に向いています。この方法を応用すれば、Mastodonのカスタム絵文字だけでなく、Web用アイコンも作れるようになります。
 
 ## 絵文字にしたい画像を用意する
 
