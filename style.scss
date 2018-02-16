@@ -60,14 +60,14 @@ article.post h1 {
 }
 
 article.post h1:after {
-position: absolute;
-content: '';
-top: 100%;
-left: 30px;
-border: 15px solid transparent;
-border-top: 15px solid #eee;
-width: 0;
-height: 0;
+  position: absolute;
+  content: '';
+  top: 100%;
+  left: 30px;
+  border: 15px solid transparent;
+  border-top: 15px solid #eee;
+  width: 0;
+  height: 0;
 }
 
 h2 {
