@@ -10,8 +10,6 @@ tags:
 - Illustrator
 ---
 
-## はじめに
-
 分散SNS「[Mastodon](https://joinmastodon.org/ "ソーシャルネットワーキングを、あなたの手の中に - Mastodonプロジェクト")」では、バージョン2.0.0からカスタム絵文字が使えるようになりました（絵文字を追加できるのはインスタンス管理者のみ）。
 
 <iframe src="https://mastodos.com/@7_nana/99535641093246226/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mastodos.com/embed.js" async="async"></script>
