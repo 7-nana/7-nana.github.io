@@ -59,7 +59,7 @@ article.post h1, article.page h1 {
   background: #eee;
 }
 
-article.post h1, article.page h1 {
+article.post h1:after, article.page h1:after {
   position: absolute;
   content: '';
   top: 100%;
