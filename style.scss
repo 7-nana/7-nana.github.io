@@ -53,13 +53,13 @@ h1 {
   }
 }
 
-article.post h1 {
+article.post h1, article.page h1 {
   position: relative;
   padding: 0.6em;
   background: #eee;
 }
 
-article.post h1:after {
+article.post h1, article.page h1 {
   position: absolute;
   content: '';
   top: 100%;
