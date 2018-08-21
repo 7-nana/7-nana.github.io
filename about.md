@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A freelance web developer and graphic designer.
-
-<a href="https://7-nana.bio/" class="read-more square_btn">More Profile</a>
+A freelance web developer and graphic designer. [More Profile](https://7-nana.bio/ "7_nana")
 
 2018年2月以前のWeb・デザインに関する記事は「[Draft for Tomorrow](https://draft.goat.me/ "Draft for Tomorrow - g.o.a.t")」にあります。
 
