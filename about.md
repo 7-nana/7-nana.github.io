@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-インターネット上のあちらこちらに「7_nana」とか「7-nana」みたいなアカウントを持っています。読みは「なな」。
+A freelance web developer and graphic designer.
+<a href="https://7-nana.bio/">More Profile</a>
 
-フリーランスのWeb屋＆グラフィックデザイナーです。2018年2月以前のWeb・デザインに関する記事は「[Draft for Tomorrow](https://draft.goat.me/ "Draft for Tomorrow - g.o.a.t")」にあります。
+2018年2月以前のWeb・デザインに関する記事は「[Draft for Tomorrow](https://draft.goat.me/ "Draft for Tomorrow - g.o.a.t")」にあります。
 
 黒い画面に慣れたくてGitHub Pagesにブログを作ったんですが、今のところターミナルではなくブラウザで更新しています。
 
