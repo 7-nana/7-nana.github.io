@@ -10,13 +10,13 @@ tags:
 - Error
 ---
 
-先日、私が運営しているMastodonインスタンス「[マストどす](https://mastodos.com/about)」を最新のｖ2.5.0にすべく、まずはｖ2.3.3からｖ2.4.0にアップデートしたところエラー画面（We’re sorry, but something went wrong on our end.）になり、クライアントアプリからは使えるのにWebブラウザからだと使えない、摩訶不思議な状態に陥りました。
+先日、私が運営しているMastodonインスタンス「[マストどす](https://mastodos.com/about)」を最新のv2.5.0にすべく、まずはv2.3.3からv2.4.0にアップデートしたところエラー画面（We’re sorry, but something went wrong on our end.）になり、クライアントアプリからは使えるのにWebブラウザからだと使えない、摩訶不思議な状態に陥りました。
 
 ※当インスタンスはさくらのクラウドのスタートアップスクリプトで作成したものです
 
 ## 結論からお話すると
 
-（最終的にエラー画面すら出なくなり）502エラーになっている状態でｖ2.4.0からｖ2.4.1にアップデートしたら直りました。その後（v2.4.2とv2.4.3を飛ばして）v2.4.4→v2.5.0とアップデートすることができました。
+（最終的にエラー画面すら出なくなり）502エラーになっている状態でv2.4.0からv2.4.1にアップデートしたら直りました。その後（v2.4.2とv2.4.3を飛ばして）v2.4.4→v2.5.0とアップデートすることができました。
 
 <iframe src="https://taruntarun.net/@mayaeh/100763899665858403/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://taruntarun.net/embed.js" async="async"></script>
 
