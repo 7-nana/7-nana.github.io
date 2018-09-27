@@ -118,6 +118,8 @@ Mastodon v2.4.0でこの作業は必要ないはずなんですが、node_module
 
 この時点でエラー画面すら出なくなり、502エラーになってしまいました。上記のコマンドを再度試したりもしましたが原因がわからず八方塞がりになり、思い切ってv2.4.1へのアップデートを試してみると、無事Webブラウザでアクセスできるようになりました。
 
+![v2.5.0になったマストどす](https://7-nana.github.io/images/img_mastodonv250-update001.png)
+
 ## 参考記事
 
 * [Releases · tootsuite/mastodon](https://github.com/tootsuite/mastodon/releases)
