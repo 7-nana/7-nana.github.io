@@ -20,7 +20,7 @@ tags:
 
 <iframe src="https://taruntarun.net/@mayaeh/100763899665858403/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://taruntarun.net/embed.js" async="async"></script>
 
-私はv2.4.4のリリースノートを確認せずに、「いまv2.3.3だから、v2.4.0から順にアップデートすれば安心だ」と思い込んで今回のトラブルに見舞われました。アップデートが追いつかないまま本家のバージョンがいくつか上がった場合は、 **リリースノートを最新から順に一読すべきだった** と反省しています。
+私はv2.4.4のリリースノートを確認せずに、「いまv2.3.3だから、v2.4.0から順にアップデートすれば安心だ」と思い込んで今回のトラブルに見舞われました。アップデートが追いつかないまま本家のバージョンがいくつか上がった場合は、 **リリースノートを最新から順に一読すべきだった**と反省しています。
 
 今回のことで、沢山の方々から応援やアドバイスをいただきました。また、多くのブログ記事にも助けられました。解決まで延べ3日と時間を要してしまいましたが、教わったことを忘れないためにも、ここに書き記しておきます。
 
@@ -68,15 +68,15 @@ proxy_pass http://127.0.0.1:4000;
 
 ### Mastodonのサービス群を再起動
 
-`# systemctl restart mastodon-web
-# systemctl restart mastodon-sidekiq
-# systemctl restart mastodon-streaming`
+`# systemctl restart mastodon-web`
+`# systemctl restart mastodon-sidekiq
+`# systemctl restart mastodon-streaming`
 
 ### Mastodonのサービス群が起動しているか確認
 
-`# systemctl status mastodon-web
-# systemctl status mastodon-sidekiq
-# systemctl status mastodon-streaming`
+`# systemctl status mastodon-web`
+`# systemctl status mastodon-sidekiq`
+`# systemctl status mastodon-streaming`
 
 ### Redisが起動しているか確認
 
@@ -84,8 +84,8 @@ proxy_pass http://127.0.0.1:4000;
 
 ### Redisが停止していたので起動
 
-`# systemctl start redis
-# systemctl enable redis`
+`# systemctl start redis`
+`# systemctl enable redis`
 
 ### サーバを再起動
 
@@ -100,14 +100,14 @@ proxy_pass http://127.0.0.1:4000;
 
 ### Ruby Gem を再インストール
 
-`# bundle exec gem uninstall -aIx
-# bundle install`
+`# bundle exec gem uninstall -aIx`
+`# bundle install`
 
 ### アセットをゼロから作り直す
 
 /home/mastodon/live
-`$ RAILS_ENV=production bundle exec rails assets:clobber
-$ RAILS_ENV=production bundle exec rails assets:precomplie`
+`$ RAILS_ENV=production bundle exec rails assets:clobber`
+`$ RAILS_ENV=production bundle exec rails assets:precomplie`
 
 ### Node.jsをv8.X系までアップデートする
 
