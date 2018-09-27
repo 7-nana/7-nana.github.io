@@ -32,7 +32,7 @@ tags:
 
 /var/log/nginx/error.log
 
-<iframe src="https://mstdn.jp/@7_nana/100762851819744068/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.jp/embed.js" async="async"></script>
+> [error] 1014#0: *5302 connect() failed (111: Connection refused) while connecting to upstream, client: XXX.XXX.XXX.XXX, server: mastodos.com, request: "GET /api/v1/streaming/?stream=user&access_token=ホニャララ HTTP/1.1", upstream: "http://[::1]:4000/api/v1/streaming/?stream=user&access_token=ホニャララ", host: "mastodos.com"
 
 ### アプリからは使えていた
 
