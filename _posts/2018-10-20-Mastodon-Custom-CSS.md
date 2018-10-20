@@ -338,6 +338,11 @@ body.theme-contrast .column-inline-form label input:focus {
    border-bottom: 2px solid #41b200;
 }
 
+/* スマホ版タブバーのアクティブ時のボーダーの色を変える */
+body.theme-contrast .tabs-bar__link.active {
+    border-bottom: 2px solid #64bf2f;
+}
+
 /* プロフィールページのアバター画像のボーダーと背景色を無くす */
 body.theme-contrast .public-layout .public-account-header__bar .avatar img {
     border: none;
