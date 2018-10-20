@@ -248,6 +248,7 @@ body.theme-contrast .reply-indicator__content a,
 body.theme-contrast .rich-formatting li a,
 body.theme-contrast .rich-formatting p a,
 body.theme-contrast .simple_form p.hint.subtle-hint a,
+body.theme-contrast .tabs-bar__link.active,
 body.theme-contrast .text-icon-button.active {
    color: #64bf2f;
 }
