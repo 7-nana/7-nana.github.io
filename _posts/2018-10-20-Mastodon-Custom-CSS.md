@@ -108,7 +108,8 @@ body.theme-contrast .drawer__header,
 body.theme-contrast .list-editor h4,
 body.theme-contrast .public-layout .header,
 body.theme-contrast .search-results__header,
-body.theme-contrast .search-results__section h5 {
+body.theme-contrast .search-results__section h5,
+body.theme-contrast .tabs-bar {
    background-color: #7760a9;
 }
 
