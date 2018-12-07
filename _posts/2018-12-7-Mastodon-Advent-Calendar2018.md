@@ -9,11 +9,11 @@ tags:
 -
 ---
 
-## はじめに
-
 この記事は[Mastodon Advent Calendar 2018](https://qiita.com/advent-calendar/2018/mastodon)の7日目の記事です。昨日はS.H.さんの「[自作の食品管理アプリをMastodonに対応した話 - ゲームリンクスの徒然なる日常](https://gamelinks007.hatenablog.com/entry/2018/12/06/000000)」でした。
 
 記事の公開が大幅に遅れ、申し訳ありませんっっ！！！
+
+## はじめに
 
 Mastodonに関する記事はこれまでにいくつか書きましたが、思い返せば全て管理者向け／管理者として書いていたので、今回はいちユーザーとしてMastodonの好きなところを書いてみます。
 
