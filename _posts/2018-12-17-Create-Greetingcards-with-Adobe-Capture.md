@@ -10,11 +10,11 @@ tags:
 - Illustrator
 ---
 
-この記事は[DTP Advent Calendar 2018 - Adventar](https://adventar.org/calendars/3126)の17日目の記事です。昨日はyamma_maさんの「[「モニタのプロファイル」についておさらい : やんま まのblog（仮）](http://blog.livedoor.jp/yamma_ma/archives/52756362.html)」でした。
+この記事は[DTP Advent Calendar 2018](https://adventar.org/calendars/3126)の17日目の記事です。昨日はyamma_maさんの「[「モニタのプロファイル」についておさらい](http://blog.livedoor.jp/yamma_ma/archives/52756362.html)」でした。
 
 ## はじめに
 
-あっという間に、2018年ももうすぐ終わり。繁忙期に入っている方も多いと思います。私生活でも大掃除や帰省の準備、お歳暮や年賀状の手配などでバタバタ･･･。
+あっという間に、2018年ももうすぐ終わり。繁忙期に入っている方も多いと思います。私生活でも大掃除や帰省の準備、お歳暮や年賀状の手配などでバタバタと･･･。
 
 そこで今回は、Adobe CaptureとIllustratorを使ってオリジナル年賀状をサクッと作ってみたいと思います。
 
@@ -24,8 +24,8 @@ tags:
 - 鉛筆
 - 消しゴム
 - ペン
-- [Adobe Capture CC](https://www.adobe.com/jp/products/capture.html)（スマートフォンアプリ）
-- Adobe Illustrator（PCアプリ）
+- [Adobe Capture CC](https://www.adobe.com/jp/products/capture.html)（スマートフォンアプリ・無料）
+- [Adobe Illustrator CC](https://www.adobe.com/jp/products/illustrator.html)（PCアプリ・有料）
 
 ペン類は、ペン先の細いものではなく、太さのあるものを使用します。
 
@@ -39,7 +39,7 @@ Adobe Capture CCを使用するには、無料または有料のCreative Cloud�
 
 ![素材を描く](https://7-nana.github.io/images/create-greetingcards-with-adobe-capture002.jpg)
 
-細部は後で修正できるので、ここで調整をしなくても大丈夫。あまり気張らず、楽しんで描きましょう。
+細部は後で修正できるので、ここではあまり気張らず、楽しくのびのび描きましょう。
 
 ## Adobe Capture CCで撮影・調整する
 
@@ -63,11 +63,11 @@ Adobe Capture CCを使用するには、無料または有料のCreative Cloud�
 
 ## Illustratorで素材を取り込みデザインする
 
-ここからPCでの作業に移ります。あなたがCreative Cloudを使用している場合、CCライブラリパネルのマイライブラリを開くと先ほど撮影した素材が表示されていると思います。
+ここからPCでの作業に移ります。あなたがCreative Cloudを使用している場合、CCライブラリパネルの「マイライブラリ」を開くと先ほど撮影した素材が表示されていると思います。
 
 ![Adobe Illustrator](https://7-nana.github.io/images/create-greetingcards-with-adobe-capture006.png)
 
-使用したい素材をドラッグするとシェイプの状態で取り込むことができます。あぁ、なんて便利。
+使用したい素材をアートボードにドラッグするとシェイプの状態で取り込むことができます。あぁ、なんて便利。
 
 ![Adobe Illustrator](https://7-nana.github.io/images/create-greetingcards-with-adobe-capture007.png)
 
@@ -83,10 +83,10 @@ Adobe Capture CCを使用するには、無料または有料のCreative Cloud�
 
 [ダウンロードはコチラから](https://7-nana.github.io/images/nenga.ai.zip)
 
-この素材は無料で自由にお使いいただけますが、素材そのものの再配布・販売は禁止です。
+このAIファイルは商用・非商用問わず無料で自由にお使いいただけますが、素材そのものの再配布と販売は禁止します。
 
 ## さいごに
 
-Adobe Capture CCには、今回紹介したもの以外にも様々な機能があります。デザイナーにとっては嬉しい便利ツールだと思うので、まだ使ったことがない方はぜひこの機会に使ってみてください。
+Adobe Capture CCには、この他にも様々な機能があります。デザイナーにとっては嬉しい便利ツールだと思うので、まだ使ったことがない方はぜひこの機会に使ってみてください。
 
-ということで[DTP Advent Calendar 2018 - Adventar](https://adventar.org/calendars/3126)、明日はga_gaco_coさんによる「面つけ後のトンボ付きPDFの書き出し方を備忘録（予定）」です。お楽しみに！
+ということで[DTP Advent Calendar 2018](https://adventar.org/calendars/3126)、明日はga_gaco_coさんによる「面つけ後のトンボ付きPDFの書き出し方を備忘録（予定）」です。お楽しみに！
