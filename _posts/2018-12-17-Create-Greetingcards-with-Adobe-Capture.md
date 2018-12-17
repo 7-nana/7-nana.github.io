@@ -10,9 +10,9 @@ tags:
 - Illustrator
 ---
 
-## はじめに
-
 この記事は[DTP Advent Calendar 2018 - Adventar](https://adventar.org/calendars/3126)の17日目の記事です。昨日はyamma_maさんの「[「モニタのプロファイル」についておさらい : やんま まのblog（仮）](http://blog.livedoor.jp/yamma_ma/archives/52756362.html)」でした。
+
+## はじめに
 
 あっという間に、2018年ももうすぐ終わり。繁忙期に入っている方も多いと思います。私生活でも大掃除や帰省の準備、お歳暮や年賀状の手配などでバタバタ･･･。
 
