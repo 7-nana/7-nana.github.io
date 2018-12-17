@@ -81,7 +81,7 @@ Adobe Capture CCを使用するには、無料または有料のCreative Cloud�
 
 上の図の、右側のデータを配布するので、興味のある方はダウンロードして見てみてください。取り込んだままの素材も入っています。
 
-[ダウンロードはコチラから](https://7-nana.github.io/images/nenga.ai.zip)
+[ダウンロードはコチラから](https://7-nana.github.io/images/nenga.ai.zip)（zipファイル、2.2MB）
 
 このAIファイルは商用・非商用問わず無料で自由にお使いいただけますが、AIファイルそのものの再配布・販売は禁止します。
 
