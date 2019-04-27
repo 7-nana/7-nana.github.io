@@ -17,7 +17,7 @@ tags:
 
 ## ユーザー数とアクティビティ
 
-![ダッシュボード](https://7-nana.github.io/images/mastodos-is-almost-2nd-anniversary001.png)
+![ダッシュボード](https://7-nana.github.io/images/about-recent-mastodos001.png)
 
 2017年8月にサーバーを一旦リセットせざる負えなくなったときのユーザー数が150人弱。その後サーバーを新たに立て直し、現在のユーザー数は213人、今週活動した人数は31人。つい先ほども新規登録が1件ありました。
 
