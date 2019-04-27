@@ -9,9 +9,9 @@ tags:
 - Mastodon
 ---
 
-## はじめに
-
 この記事は[Mastodon Golden Week Calendar](https://gw-advent.9wick.com/calendars/16)の1日目の記事です。公開がギリギリになってしまい申し訳ありません。
+
+## はじめに
 
 私が立ち上げたMastodonサーバー「[マストどす](https://mastodos.com)」は、2019年5月2日に2周年を迎えます。そこで今回は、最近のマストどすについてまとめておきたいと思います。
 
