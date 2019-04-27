@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: 最近のマストどすについて
 date: 2019-04-27 00:00:00
-image: https://7-nana.github.io/images/about-recent-mastodos001.jpg
+image: https://7-nana.github.io/images/about-recent-mastodos001.png
 categories: Web
 tags:
 - Mastodon
