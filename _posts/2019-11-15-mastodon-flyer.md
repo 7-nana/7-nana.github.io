@@ -10,8 +10,6 @@ tags:
 - Illustrator
 ---
 
-## はじめに
-
 ![Mastodonチラシ](https://7-nana.github.io/images/mastodon_flyer_00.jpg)
 
 かなーーーり遅くなってしまったのですが、8月に京都で開催された[オープンソースカンファレンス2019 Kyoto](https://www.ospn.jp/osc2019-kyoto/)で配布していたMastodon宣伝用チラシのデータを、必要な方に自由に使ってもらえるよう、ここで配布します。
