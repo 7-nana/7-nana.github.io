@@ -52,6 +52,10 @@ mastodon_flyer.zipの中身は下図のようになっています。
 
 JPGは確認用に同梱しています。
 
+## ダウンロード
+
+[mastodon_flyer.zip（5.1MB）](https://7-nana.github.io/images/mastodon_flyer.zip)
+
 ## さいごに
 
 このようなチラシを配布する場面は滅多に無いと思いますが、せっかく作ったので、いつかどなたかの一助になれば嬉しいです。
